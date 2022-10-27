@@ -19,10 +19,15 @@ Hola a todos, en esta oportunidad desarrollaremos un caso práctico donde analiz
 
 5. Ya organizada nuestra información, procedemos a crear Dashboars con informacion relevante y sintetizada.
 Por en ejemplo en la gráfica de muestra:
+
 *suma total de ingresos
-*suma total de gastos   
+
+*suma total de gastos  
+
 *suma de ingreso por productos
+
 *suma de gastos por continente
+
 *Ademas tenemos filtros para segmentar la información segun categoría y año.
 ![Logo de excel](dashboard.PNG)
 
