@@ -2,7 +2,7 @@
 
 Hola a todos, en esta oportunidad desarrollaremos un caso práctico donde analizaremos la información de productos, gastos, ingresos , region,etc. La empresa desea tener un dashboard que permita analizar la información  de una manera sencilla y  eficiente para la toma de descisiones.
 
-1. Teniendo en cuenta los principos del ETL.En primer lugar buscamos un nuestra fuente da datos con la que vamos a trabajar. Para este caso será con un un archivo excel.
+1. Teniendo en cuenta los principos del ETL.En primer lugar buscamos un nuestra fuente da datos con la que vamos a trabajar. Para este caso será con un archivo excel.
 
       ![Logo de excel](excel.PNG)
 
