@@ -18,7 +18,7 @@ Hola a todos, en esta oportunidad desarrollaremos un caso práctico donde analiz
 ![Relacion de tablas](relaciones.PNG)
 
 5. Ya organizada nuestra información, procedemos a crear Dashboars con informacion relevante y sintetizada.
-Por en ejemplo en la gráfica de muestra:
+Por ejemplo en la gráfica se muestra:
 
       *suma total de ingresos
 
