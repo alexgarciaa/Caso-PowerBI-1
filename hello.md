@@ -31,4 +31,4 @@ Por ejemplo en la gráfica se muestra:
       *Ademas tenemos filtros para segmentar la información segun categoría y año.
    ![Dashboard](dashBoard.PNG)
 
-        Gracias por llegar aquí!!
+        Gracias por llegar hasta aquí!!
